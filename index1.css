@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.content .image img{
+    width: 100%;
+    margin-top: 2px;
+    margin-left: 2.5px;
+    height: 100%;
+   /* padding: 0px; */
+    height: 400px;
+   /* margin-bottom: 0px; */
+    
+}
+.paragraph{
+    background-color: black;
+    margin-top: 0px;
+    padding: 20px;
+    color: white;
+}
+.part{
+    background-color: rgb(203, 219, 213);
+}
+.he{
+    padding:5px;
+    align-items: center;
+}
+img {
+    height: 50px;
+    width: 50px;
+    align-items: center;
+    margin-top: 5px;
+    display: inline-block;
+    position:relative;
+    margin-left: 20px;
+
+}
+
+.heading{
+    padding: 10px;
+    background-color: rgb(189, 196, 194);
+    margin-top: 3px;
+}
+
+.pic img{
+
+    height: 200px;
+    width: 200px;
+    margin-top: 30px;
+    border-radius: 2px solid black;
+}
+
+.pic .parag{
+    /* display:inline-block; */
+     background-color: brown;
+     display: flex;
+}
+.pic{
+    display: flex;
+    background-color: rgb(74, 149, 214);
+}
+
+
+.he{
+    color: rgb(24, 23, 23);
+}
+.mt{
+    margin: 30px;
+    /* padding: 15px; */
+}
+
+button{
+    color:rgb(220, 6, 127);
+    border: 2px solid black;
+    float: right;
+    background-color: rgb(218, 136, 150);
+    margin-bottom: 10px;
+}
+button:hover{
+    background-color: black;
+    color: white;
+    transition: 1s;
+}
+
+.bigheading{
+    margin-top: 50px;
+    padding:14px;
+    background-color: darkgrey;
+}
+
+.paragraph1{
+    margin-top: 5px;
+}
